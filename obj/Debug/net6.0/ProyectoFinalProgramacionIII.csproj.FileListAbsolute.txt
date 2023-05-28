@@ -1,0 +1,15 @@
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\bin\Debug\net6.0\ProyectoFinalProgramacionIII.exe
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\bin\Debug\net6.0\ProyectoFinalProgramacionIII.deps.json
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\bin\Debug\net6.0\ProyectoFinalProgramacionIII.runtimeconfig.json
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\bin\Debug\net6.0\ProyectoFinalProgramacionIII.dll
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\bin\Debug\net6.0\ProyectoFinalProgramacionIII.pdb
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.csproj.AssemblyReference.cache
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.AssemblyInfoInputs.cache
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.AssemblyInfo.cs
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.dll
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\refint\ProyectoFinalProgramacionIII.dll
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.pdb
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ProyectoFinalProgramacionIII.genruntimeconfig.cache
+C:\Users\Emanuel de Ramirez\Desktop\Tareas 2023\Progra III\ProyectoFinalProgramacionIII\obj\Debug\net6.0\ref\ProyectoFinalProgramacionIII.dll

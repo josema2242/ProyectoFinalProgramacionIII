@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHcTXV0bXmxlcVZCso/J7Su7rS5jDMF+AKFBoUokGiqOhSxedYWY0RbhrStMLnlTlOe7OTXArK/xWbCPYBBDTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emanuel de Ramirez\\Desktop\\Tareas 2023\\Progra III\\ProyectoFinalProgramacionIII\\ProyectoFinalProgramacionIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emanuel de Ramirez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Emanuel de Ramirez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Emanuel de Ramirez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Emanuel de Ramirez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
